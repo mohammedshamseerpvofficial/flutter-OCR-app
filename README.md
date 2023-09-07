@@ -14,7 +14,7 @@
         <td><img src="https://mohammedshamseerpvofficial.github.io/host-images/image/mokztext4.jpg" width="300" /></td>
         <td><img src="https://mohammedshamseerpvofficial.github.io/host-images/image/mokztext5.jpg" width="300" /></td>
         
-    </tr>
+
 </table>
 
 
